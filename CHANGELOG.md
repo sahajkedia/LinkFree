@@ -1,45 +1,45 @@
-# [0.66.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.65.0...v0.66.0) (2022-05-25)
-
-
-### Features
-
-* removed images on homepage ([#1306](https://github.com/EddieHubCommunity/LinkFree/issues/1306)) ([74aa9a8](https://github.com/EddieHubCommunity/LinkFree/commit/74aa9a862c25fa39d2076eb0f69aeeeb002eea0f)), closes [#1264](https://github.com/EddieHubCommunity/LinkFree/issues/1264)
-
-
-
-# [0.65.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.2...v0.65.0) (2022-05-15)
-
-
-### Features
-
-* io domain ([79e500a](https://github.com/EddieHubCommunity/LinkFree/commit/79e500aac111c39aefc1d1c409a1357142f49c1f))
-
-
-
-## [0.64.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.1...v0.64.2) (2022-05-09)
+## [0.68.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.68.3...v0.68.4) (2022-06-24)
 
 
 ### Bug Fixes
 
-* update link to https ([#1284](https://github.com/EddieHubCommunity/LinkFree/issues/1284)) ([96aa23b](https://github.com/EddieHubCommunity/LinkFree/commit/96aa23b188c2ce631fdadd92959c8bd2d315c618))
+* YuriDevAT ([#1404](https://github.com/EddieHubCommunity/LinkFree/issues/1404)) ([23fb7ed](https://github.com/EddieHubCommunity/LinkFree/commit/23fb7ed4c87e87919d7e9c026d3ac6a128755fcd))
 
 
 
-## [0.64.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.0...v0.64.1) (2022-05-07)
+## [0.68.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.68.2...v0.68.3) (2022-06-15)
 
 
 ### Bug Fixes
 
-* Menubar icons position on mobile ([#1196](https://github.com/EddieHubCommunity/LinkFree/issues/1196)) ([e39fc59](https://github.com/EddieHubCommunity/LinkFree/commit/e39fc59868ec37b990114fd482d6d549e1396fa1))
+* update typos and add profile ([#1361](https://github.com/EddieHubCommunity/LinkFree/issues/1361)) ([00b485c](https://github.com/EddieHubCommunity/LinkFree/commit/00b485cae50ddae9ea585feaa310a9dd75d713a4))
 
 
 
-# [0.64.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.63.1...v0.64.0) (2022-04-09)
+## [0.68.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.68.1...v0.68.2) (2022-06-10)
+
+
+### Bug Fixes
+
+* kirtijain627([#1369](https://github.com/EddieHubCommunity/LinkFree/issues/1369)) ([38f65c2](https://github.com/EddieHubCommunity/LinkFree/commit/38f65c2b814ff30cf656a8169b3127ccab04dce1))
+
+
+
+## [0.68.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.68.0...v0.68.1) (2022-06-10)
+
+
+### Bug Fixes
+
+* lockfile ([#1370](https://github.com/EddieHubCommunity/LinkFree/issues/1370)) ([d0903cb](https://github.com/EddieHubCommunity/LinkFree/commit/d0903cbd2556ec9b0f42209f1f35d77576019bca))
+
+
+
+# [0.68.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.67.1...v0.68.0) (2022-06-01)
 
 
 ### Features
 
-* Use current URL in share buttons ([#1211](https://github.com/EddieHubCommunity/LinkFree/issues/1211)) ([dc1b362](https://github.com/EddieHubCommunity/LinkFree/commit/dc1b362fdaf2992c42ef24d799d04c2abac9b827))
+* revamp homepage ([#1264](https://github.com/EddieHubCommunity/LinkFree/issues/1264)) ([#1341](https://github.com/EddieHubCommunity/LinkFree/issues/1341)) ([da767e0](https://github.com/EddieHubCommunity/LinkFree/commit/da767e06693b6e8ceee3e14f9d79ace1d22b487e))
 
 
 
